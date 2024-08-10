@@ -1,0 +1,21 @@
+{
+  "name": "glintnight",
+  "displayName": "GlintNight",
+  "description": " Embrace the elegance of the night with GlintNight, a sleek and sophisticated dark theme for Visual Studio Code. Designed to reduce eye strain during long coding sessions, this theme features a deep, dark background complemented by subtle, glowing highlights that add a touch of sophistication to your coding environment.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GlintNight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GlintNight-color-theme.json"
+      }
+    ]
+  }
+}
