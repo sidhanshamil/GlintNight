@@ -1,4 +1,5 @@
 # GlintNight
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sidhanshamil.glintnight?color=blue&style=for-the-badge)
 
 **GlintNight** is a sleek and sophisticated dark theme for Visual Studio Code, designed to offer a visually appealing coding environment with minimal eye strain. Whether you're coding during the day or burning the midnight oil, GlintNight provides a rich, dark palette with subtle, glowing accents to enhance readability and focus.
 
